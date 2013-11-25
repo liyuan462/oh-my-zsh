@@ -1,0 +1,1 @@
+unset LC_CTYPE
